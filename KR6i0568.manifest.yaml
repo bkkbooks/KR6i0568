@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0568/v1
 canonical_location: https://kanripo.org/bkk/KR6i0568/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 圓覺經集註
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0568_000.yaml, hash: 'sha256:a88dac913d18ffe8b034c729356d74d8fd3bdeb5c48a6bd861ac9fdff441ccc2'}
-  - {seq: 1, filename: KR6i0568_001.yaml, hash: 'sha256:6631a15cb51bc72da171492c27dd412a21a5213ab66e67e09c5b8a39ac451918'}
-  - {seq: 2, filename: KR6i0568_002.yaml, hash: 'sha256:55aca70e1fe1f91da0eab647d353127033a5ea279e9820013930e68db3717d62'}
+  - {seq: 0, filename: KR6i0568_000.yaml, hash: 'sha256:7807e68d398e733b2b89c5a2df55e27e585bf2cf233b2298dd1f6a2d5e72a5c7'}
+  - {seq: 1, filename: KR6i0568_001.yaml, hash: 'sha256:00f02b1b6abc53d892bb0399dbb09c386e11ac2e88a103598e507574e6199209'}
+  - {seq: 2, filename: KR6i0568_002.yaml, hash: 'sha256:dd04c98f590decdc594edd29dfe369c8a38989fc1d280c569d89c1df7405a17f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0568_000.markers.yaml, hash: 'sha256:56aeccc9b3f65d5d9dce9876a0dff43f0dd95c41205f46c8dde00705996b5c94'}
-  - {seq: 1, role: markers, filename: assets/KR6i0568_001.markers.yaml, hash: 'sha256:c854c9e009b03d8ce2c8ca08159a0175b901c462f403af745cdcb7b16474d764'}
-  - {seq: 2, role: markers, filename: assets/KR6i0568_002.markers.yaml, hash: 'sha256:adc240895bb4d9b3385c16cc130e9f171dd32950fbc43b005e120cb2b89c8cf9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0568_000.markers.yaml, hash: 'sha256:42fd8dd81f090fa60ec15250d8026202f7feeb380b1635f9b08af3cfafa160c5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0568_001.markers.yaml, hash: 'sha256:67cb72ed6afc855020613d61c2f4064485449e08115b53c9d8d758490228acdd'}
+  - {seq: 2, role: markers, filename: assets/KR6i0568_002.markers.yaml, hash: 'sha256:323a0e2356d5f9c09f2470cce46678fcf1a915e76604fc680485f683c92f7f4d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -249,4 +249,7 @@ table_of_contents:
   label: No. 257-C 大方廣圓覺經略疏序
   type: mulu
   level: 1
-hash: sha256:90eec28c4ca2553a19d40933b3ceba51846ab9314a6e08b967837f3002889c06
+hash: sha256:95a8aeda318606eed6277399fd991332bddd05d7341932ee6d40565d316e0543
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
