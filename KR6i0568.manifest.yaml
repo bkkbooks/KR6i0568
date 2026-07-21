@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0568_000.yaml, hash: 'sha256:7807e68d398e733b2b89c5a2df55e27e585bf2cf233b2298dd1f6a2d5e72a5c7'}
+  - {seq: 0, filename: KR6i0568_000.yaml, hash: 'sha256:92005d21cea973313ad869a5249febd3360133c7d3297b4787a0ec6856b756b8'}
   - {seq: 1, filename: KR6i0568_001.yaml, hash: 'sha256:00f02b1b6abc53d892bb0399dbb09c386e11ac2e88a103598e507574e6199209'}
   - {seq: 2, filename: KR6i0568_002.yaml, hash: 'sha256:dd04c98f590decdc594edd29dfe369c8a38989fc1d280c569d89c1df7405a17f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0568_000.markers.yaml, hash: 'sha256:42fd8dd81f090fa60ec15250d8026202f7feeb380b1635f9b08af3cfafa160c5'}
+  - {seq: 0, role: markers, filename: assets/KR6i0568_000.markers.yaml, hash: 'sha256:8e8c743ab2a6d4cc86def8e1f4f76a299d546c9e4f5bb495c26abbf1bf8af856'}
   - {seq: 1, role: markers, filename: assets/KR6i0568_001.markers.yaml, hash: 'sha256:67cb72ed6afc855020613d61c2f4064485449e08115b53c9d8d758490228acdd'}
   - {seq: 2, role: markers, filename: assets/KR6i0568_002.markers.yaml, hash: 'sha256:323a0e2356d5f9c09f2470cce46678fcf1a915e76604fc680485f683c92f7f4d'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0568_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 257-A 圓覺經集註序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0568_X_000-mulu-2
     span:
-    - front
+    - body
     - 680
     - 680
   label: No. 257-B 大方廣圓覺修多羅了義經集註上(并序)
@@ -249,7 +249,7 @@ table_of_contents:
   label: No. 257-C 大方廣圓覺經略疏序
   type: mulu
   level: 1
-hash: sha256:95a8aeda318606eed6277399fd991332bddd05d7341932ee6d40565d316e0543
+hash: sha256:945ea8eb776c0a158950cfbaaebabd880f532ff54d768c447f7a467df194d9b0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
